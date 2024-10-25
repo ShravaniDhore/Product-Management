@@ -1,2 +1,2 @@
-# Product-Management
+# Grocery-Management
 DBMS Project
